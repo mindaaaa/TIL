@@ -159,8 +159,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d595f9b10eb5c53c",
+  "active": "d350ae9f67674a66",
   "lastOpenFiles": [
-    "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-03-31/회고.md",
     "📁 Algo/2025-03-31/계획.md",
+    "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Projects/2025-03-31/📆 주차별 계획.md",
     "📁 Projects/2025-03-31/회고.md",
