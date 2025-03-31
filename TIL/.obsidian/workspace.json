@@ -4,40 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "2d37321d933c9442",
+        "id": "6d31e06a1bf31983",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d3d4277b437a41",
+            "id": "d44f9eae184a7b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "📁 Algo/2025-03-31/계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "계획"
             }
-          }
-        ]
-      },
-      {
-        "id": "c13ccc54ff74c752",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a983cb2f7837cb7c",
+            "id": "ef5a4b512aaf78d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "📁 Algo/2025-03-31/회고.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "회고"
+            }
+          },
+          {
+            "id": "da35ee00f95a9208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Projects/2025-03-31/계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획"
+            }
+          },
+          {
+            "id": "6cd1095faae502c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Projects/2025-03-31/회고.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "회고"
+            }
+          },
+          {
+            "id": "d350ae9f67674a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Algo/2025-03-31/📆 주차별 계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📆 주차별 계획"
+            }
+          },
+          {
+            "id": "e92ee37923fcd577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Algo/2025-03-31/계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획"
+            }
+          },
+          {
+            "id": "6aff174f6403de59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Algo/2025-03-31/📆 주차별 계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📆 주차별 계획"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "📁 Algo/2025-03-31/📆 주차별 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "📆 주차별 계획 의 백링크"
             }
           },
           {
@@ -129,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "📁 Algo/2025-03-31/📆 주차별 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "환영합니다! 의 나가는 링크"
+              "title": "📆 주차별 계획 의 나가는 링크"
             }
           },
           {
@@ -158,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "📁 Algo/2025-03-31/📆 주차별 계획.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "📆 주차별 계획 의 개요"
             }
           }
         ]
@@ -181,11 +250,23 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7d3d4277b437a41",
+  "active": "6aff174f6403de59",
   "lastOpenFiles": [
+    "📁 Projects/2025-03-31/📆 주차별 계획.md",
+    "📁 Algo/2025-03-31/📆 주차별 계획.md",
+    "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
+    "📁 Algo/2025-03-31/계획.md",
+    "📁 Projects/2025-03-31/회고.md",
+    "📁 Projects/2025-03-31/계획.md",
+    "📁 Algo/2025-03-31/회고.md",
+    "📁 Projects/2025-03-31",
+    "📁 Algo/2025-03-31",
+    "📁 Algo",
+    "📁 Projects",
     "환영합니다!.md"
   ]
 }
