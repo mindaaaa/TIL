@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-01/회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계획"
+              "title": "회고"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7ed8c6fab2da0b83",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-01/회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "계획 의 백링크"
+              "title": "회고 의 백링크"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-01/회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "계획 의 나가는 링크"
+              "title": "회고 의 나가는 링크"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-01/회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "계획 의 개요"
+              "title": "회고 의 개요"
             }
           }
         ]
@@ -200,13 +200,13 @@
   },
   "active": "519475d10839bbc3",
   "lastOpenFiles": [
+    "📁 Algo/2025-03-31/📆 주차별 계획.md",
+    "📁 Algo/2025-04-04/계획.md",
     "📁 Projects/2025-03-31/📆 주차별 계획.md",
     "📁 Projects/2025-03-31/계획.md",
     "📁 Algo/2025-03-31/계획.md",
     "📁 Algo/2025-04-01/회고.md",
-    "📁 Algo/2025-04-04/계획.md",
     "📁 Algo/2025-04-04/회고.md",
-    "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-04-01/계획.md",
     "📁 Algo/2025-04-04",
     "📁 Projects/2025-04-01/계획.md",
