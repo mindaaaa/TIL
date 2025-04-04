@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf4b3085d16b54f8",
+            "id": "0624f3015c0f681c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-01/회고.md",
+                "file": "📁 Algo/2025-04-05/계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획"
+            }
+          },
+          {
+            "id": "a5a572a360dc7593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Algo/2025-04-05/회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "회고"
             }
-          },
-          {
-            "id": "36ba3ba1fa0f78bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "계획"
-            }
-          },
-          {
-            "id": "519475d10839bbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "계획"
-            }
-          },
-          {
-            "id": "0624f3015c0f681c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "계획"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-05/회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "계획 의 백링크"
+              "title": "회고 의 백링크"
             }
           },
           {
@@ -156,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-05/회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "계획 의 나가는 링크"
+              "title": "회고 의 나가는 링크"
             }
           },
           {
@@ -185,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Algo/2025-04-04/계획.md",
+                "file": "📁 Algo/2025-04-05/회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "계획 의 개요"
+              "title": "회고 의 개요"
             }
           }
         ]
@@ -212,15 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0624f3015c0f681c",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
+    "📁 Algo/2025-04-05/계획.md",
+    "📁 Algo/2025-04-05/회고.md",
+    "📁 Algo/2025-04-04/계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-04-01/계획.md",
     "📁 Algo/2025-04-01/회고.md",
-    "📁 Algo/2025-04-04/계획.md",
     "📁 Algo/2025-03-31/계획.md",
-    "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-05",
     "📁 Algo/2025-04-04/회고.md",
     "📁 Projects/2025-03-31/📆 주차별 계획.md",
