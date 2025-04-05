@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Algo/2025-04-05/계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회고"
+              "title": "계획"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Algo/2025-04-05/계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "회고 의 백링크"
+              "title": "계획 의 백링크"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Algo/2025-04-05/계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "회고 의 나가는 링크"
+              "title": "계획 의 나가는 링크"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Algo/2025-04-05/계획.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "회고 의 개요"
+              "title": "계획 의 개요"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3666e75445ac466",
+  "active": "a5a572a360dc7593",
   "lastOpenFiles": [
-    "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-05/회고.md",
+    "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-04/계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
