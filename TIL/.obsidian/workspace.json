@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Projects/2025-03-31/주간 계획.md",
+                "file": "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "주간 계획"
+              "title": "✍️ 피드백 정리"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Projects/2025-03-31/주간 계획.md",
+                "file": "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "주간 계획 의 백링크"
+              "title": "✍️ 피드백 정리 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Projects/2025-03-31/주간 계획.md",
+                "file": "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "주간 계획 의 나가는 링크"
+              "title": "✍️ 피드백 정리 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Projects/2025-03-31/주간 계획.md",
+                "file": "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "주간 계획 의 개요"
+              "title": "✍️ 피드백 정리 의 개요"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "0df00861ae403d13",
   "lastOpenFiles": [
-    "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
     "📁 Projects/2025-03-31/주간 계획.md",
+    "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
     "📁 Algo/2025-04-05/회고.md",
     "📁 Algo/2025-04-01/회고.md",
     "📁 Algo/2025-04-01/계획.md",
