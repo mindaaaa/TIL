@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-08/계획.md",
+                "file": "📁 Algo/2025-04-08/회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계획"
+              "title": "회고"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-08/회고.md",
+                "file": "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회고"
+              "title": "✨✨ 4월의 전반적인 계획"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f47f96be83b3fd",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
     "📁 Algo/2025-04-09/계획.md",
-    "📁 Algo/2025-04-08/계획.md",
-    "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-08/회고.md",
+    "📁 Algo/2025-04-08/계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
+    "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-03-31/계획.md",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-04-09",
