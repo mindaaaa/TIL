@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Projects/2025-04-08/회고.md",
+                "file": "📁 Algo/2025-04-04/회고.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Projects/2025-04-08/회고.md",
+                "file": "📁 Algo/2025-04-04/회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Projects/2025-04-08/회고.md",
+                "file": "📁 Algo/2025-04-04/회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Projects/2025-04-08/회고.md",
+                "file": "📁 Algo/2025-04-04/회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,11 +186,15 @@
   },
   "active": "6113342cebd32afe",
   "lastOpenFiles": [
-    "📁 Projects/2025-03-31/주간 계획.md",
-    "📁 Projects/2025-04-06/🧘 주간 회고.md",
-    "📁 Projects/2025-04-08/회고.md",
+    "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
+    "📁 Algo/2025-04-01/회고.md",
+    "📁 Projects/hanzawa-kanji",
+    "📁 Algo/2025-04-01/계획.md",
+    "📁 Projects/hanzawa-kanji/2025-03-31/✍️ 피드백 정리.md",
+    "📁 Projects/hanzawa-kanji/2025-03-31/주간 계획.md",
+    "📁 Projects/hanzawa-kanji/2025-04-06/🧘 주간 회고.md",
     "📁 Algo/2025-04-08/회고.md",
-    "📁 Projects/2025-04-08",
+    "📁 Projects/hanzawa-kanji/2025-04-08",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Algo/2025-04-04/회고.md",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
@@ -199,15 +203,12 @@
     "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-08",
     "📁 Algo/2025-03-31/계획.md",
-    "📁 Projects/2025-03-31/✍️ 피드백 정리.md",
-    "📁 Algo/2025-04-01/회고.md",
-    "📁 Algo/2025-04-01/계획.md",
     "📁 Algo/2025-04-04/계획.md",
-    "📁 Projects/2025-04-07",
+    "📁 Projects/hanzawa-kanji/2025-04-07",
     "📁 Projects/2025-04-01/계획.md",
     "📁 Projects/2025-03-31/계획.md",
     "2025-04-06.md",
-    "📁 Projects/2025-04-06",
+    "📁 Projects/hanzawa-kanji/2025-04-06",
     "📁 Projects/2025-04-01/회고.md",
     "📁 Projects/2025-03-31/회고.md",
     "📁 Algo/2025-04-05/getCombinations.jpeg",
@@ -217,8 +218,7 @@
     "📁 Algo/2025-03-31/회고.md",
     "📁 Projects/2025-04-01",
     "📁 Algo/2025-04-01",
-    "📁 Projects/2025-03-31",
-    "📁 Algo/2025-03-31",
+    "📁 Projects/hanzawa-kanji/2025-03-31",
     "환영합니다!.md"
   ]
 }
