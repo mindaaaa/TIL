@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 Algo/2025-04-05/회고.md",
+                "file": "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,10 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6113342cebd32afe",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
-    "📁 Algo/2025-04-04/회고.md",
+    "📁 Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
+    "📁 Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
+    "📁 Projects/hanzawa-kanji/2025-04-08/virtual_optimization.png",
+    "📁 Algo/2025-04-05/회고.md",
+    "📁 Algo/2025-04-04/회고.md",
     "📁 Algo/2025-04-01/회고.md",
     "📁 Projects/hanzawa-kanji",
     "📁 Algo/2025-04-01/계획.md",
@@ -198,7 +202,6 @@
     "📁 Projects/hanzawa-kanji/2025-04-08",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
-    "📁 Algo/2025-04-05/회고.md",
     "📁 Algo/2025-04-08/계획.md",
     "📁 Algo/2025-04-05/계획.md",
     "📁 Algo/2025-04-08",
