@@ -36,8 +36,37 @@
               "icon": "lucide-file",
               "title": "회고"
             }
+          },
+          {
+            "id": "eb77102a6a65174f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획"
+            }
+          },
+          {
+            "id": "3b3aa3b936129c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,17 +214,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f20d712a0966859e",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
+    "2025-04-19",
+    "계획.md",
+    "무제.md",
+    "2025-04-18/계획.md",
+    "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
+    "2025-04-18",
     "📁 Projects/hanzawa-kanji/2025-04-16/계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
-    "무제.md",
     "📁 Algo/2025-04-16/계획.md",
     "📁 Projects/hanzawa-kanji/2025-04-16",
     "📁 Algo/2025-04-08/회고.md",
     "📁 Algo/2025-04-16",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
-    "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
     "📁 Algo/2025-04-09/회고.md",
     "📁 Algo/2025-04-09/계획.md",
     "📁 Algo/2025-04-08/계획.md",
@@ -221,12 +254,8 @@
     "📁 Projects/2025-03-31/계획.md",
     "2025-04-06.md",
     "📁 Projects/hanzawa-kanji/2025-04-06",
-    "📁 Projects/2025-04-01/회고.md",
-    "📁 Projects/2025-03-31/회고.md",
     "📁 Algo/2025-04-05/getCombinations.jpeg",
     "📁 Algo/2025-04-05/getPermutations.jpeg",
-    "📁 Algo/2025-04-05",
-    "📁 Algo/2025-04-04",
-    "📁 Algo/2025-03-31/회고.md"
+    "📁 Algo/2025-04-05"
   ]
 }
