@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-04-28/계획.md",
+                "file": "📁 Algo/2025-04-28/회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "계획"
+              "title": "회고"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "dcfb3e0082b5590d",
   "lastOpenFiles": [
-    "📁 Algo/2025-04-28/회고.md",
     "📁 Algo/2025-04-28/계획.md",
+    "📁 Algo/2025-04-28/회고.md",
     "📁 Algo/2025-04-21/계획.md",
     "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
     "📁 Algo/2025-04-21/회고.md",
