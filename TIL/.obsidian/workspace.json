@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 CS/🐙 Git/git-object-tests.md",
+                "file": "📁 CS/🐙 Git/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-object-tests"
+              "title": "README"
             }
           }
         ],
@@ -299,9 +299,9 @@
   "active": "e25d43b552a5914b",
   "lastOpenFiles": [
     "📁 CS/🐙 Git/mini-git-summary.md",
+    "📁 CS/🐙 Git/git-perf-analysis.md",
     "📁 CS/🐙 Git/git-object-tests.md",
     "📁 CS/🐙 Git/git-internals.md",
-    "📁 CS/🐙 Git/git-perf-analysis.md",
     "README.md",
     "📁 Projects/hanzawa-kanji/README.md",
     "📁 CS/📉 DB/README.md",
