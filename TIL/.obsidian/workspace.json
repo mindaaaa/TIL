@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "회고"
             }
+          },
+          {
+            "id": "99afe430ed68decd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "e40ac50f3c200be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 CS/🐙 Git/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "5d69bbf8daf93f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 CS/🐚 Programming-Lang/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "78bdcf0c014aa76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 CS/📉 DB/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "7f6d91a9a32e81f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 Projects/hanzawa-kanji/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,10 +240,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4c0e1574bf80c04",
+  "active": "7f6d91a9a32e81f3",
   "lastOpenFiles": [
-    "📁 Algo/2025-05-02/계획.md",
+    "📁 CS/📉 DB/README.md.md",
+    "📁 Projects/hanzawa-kanji/README.md.md",
+    "📁 CS/🐚 Programming-Lang/README.md.md",
+    "📁 CS/🐙 Git/README.md.md",
+    "README.md.md",
+    "📁 CS/📉 DB",
+    "📁 CS/🐚 Programming-Lang",
+    "📁 CS/🐙 Git",
+    "📁 CS",
     "📁 Algo/2025-05-02/회고.md",
+    "📁 Algo/2025-05-02/계획.md",
     "📁 Algo/2025-04-28/회고.md",
     "📁 Algo/2025-05-02",
     "📁 Algo/2025-04-28/계획.md",
@@ -193,23 +273,14 @@
     "📁 Projects/hanzawa-kanji/2025-04-19",
     "📁 Algo/2025-04-19",
     "📁 Algo/2025-04-18",
-    "📁 Projects/hanzawa-kanji/2025-04-16",
     "📁 Algo/2025-04-08/회고.md",
-    "📁 Algo/2025-04-16",
     "📁 Algo/2025-03-31/📆 주차별 계획.md",
     "📁 Algo/2025-04-09/회고.md",
     "📁 Algo/2025-04-09/계획.md",
     "📁 Algo/2025-04-08/계획.md",
-    "📁 Algo/2025-04-05/계획.md",
-    "📁 Algo/2025-03-31/계획.md",
-    "📁 Algo/2025-04-09",
     "📁 Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/virtual_optimization.png",
-    "📁 Algo/2025-04-05/회고.md",
-    "📁 Algo/2025-04-04/회고.md",
-    "📁 Algo/2025-04-01/회고.md",
-    "📁 Projects/hanzawa-kanji",
     "📁 Algo/2025-04-05/getCombinations.jpeg",
     "📁 Algo/2025-04-05/getPermutations.jpeg"
   ]
