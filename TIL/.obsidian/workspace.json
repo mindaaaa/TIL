@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd8a620f1ab7abce",
+        "id": "d266d065ef650e52",
         "type": "tabs",
         "children": [
           {
-            "id": "8b7226a0bfc1e8ab",
+            "id": "d640b28f7954f26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "3bcc1786912db648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 CS/Git/study-plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "study-plan"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3666e75445ac466",
+  "active": "d640b28f7954f26d",
   "lastOpenFiles": [
-    "README.md",
+    "📁 CS/Git/README.md",
     "📁 CS/Git/study-plan.md",
+    "README.md",
     "📁 CS/study-plan.md",
     "().md",
-    "📁 CS/Git/README.md",
     "📁 CS/Git/mini-git-summary.md",
     "📁 CS/README.md",
     "📁 CS/Git/git-object-tests.md",
