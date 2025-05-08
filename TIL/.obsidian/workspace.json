@@ -11,10 +11,14 @@
             "id": "d640b28f7954f26d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📁 CS/Git/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "README"
             }
           }
         ]
@@ -167,15 +171,15 @@
   },
   "active": "d640b28f7954f26d",
   "lastOpenFiles": [
-    "📁 CS/Git/README.md",
-    "📁 CS/Git/study-plan.md",
-    "README.md",
-    "📁 CS/study-plan.md",
-    "().md",
     "📁 CS/Git/mini-git-summary.md",
     "📁 CS/README.md",
-    "📁 CS/Git/git-object-tests.md",
     "📁 CS/Programming-Lang/README.md",
+    "README.md",
+    "📁 CS/study-plan.md",
+    "📁 CS/Git/study-plan.md",
+    "📁 CS/Git/README.md",
+    "().md",
+    "📁 CS/Git/git-object-tests.md",
     "📁.md",
     "CS/🐙.md",
     "CS/🐙Git/mini-git-summary.md",
