@@ -11,10 +11,14 @@
             "id": "c4ec262be4308182",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📁 CS/Git/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "README"
             }
           }
         ]
@@ -167,19 +171,21 @@
   },
   "active": "c4ec262be4308182",
   "lastOpenFiles": [
+    "📁 CS/Git/mini-git-summary.md",
+    "📁 CS/Git/git-perf-analysis.md",
+    "📁 CS/Git/git-object-tests.md",
+    "📁 CS/Git/git-internals.md",
     "📁 Projects/hanzawa-kanji/README.md",
     "📁 Projects/hanzawa-kanji/READ.md",
     "📁 Projects/mindapresso/README.md",
     "📁 CS/Git/README.md",
     "📁 Projects/mindapresso",
-    "📁 CS/Git/mini-git-summary.md",
     "📁 CS/README.md",
     "📁 CS/Programming-Lang/README.md",
     "README.md",
     "📁 CS/study-plan.md",
     "📁 CS/Git/study-plan.md",
     "().md",
-    "📁 CS/Git/git-object-tests.md",
     "📁.md",
     "CS/🐙.md",
     "CS/🐙Git/mini-git-summary.md",
@@ -189,8 +195,6 @@
     "CS",
     "Projects/mini-lang.md",
     "Projects",
-    "📁 CS/Git/git-perf-analysis.md",
-    "📁 CS/Git/git-internals.md",
     "📁 CS/DB/README.md",
     "📁 CS/DB",
     "📁 CS/Programming-Lang",
