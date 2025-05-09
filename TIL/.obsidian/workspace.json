@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d266d065ef650e52",
+        "id": "dd0a0b90b92ad656",
         "type": "tabs",
         "children": [
           {
-            "id": "d640b28f7954f26d",
+            "id": "c4ec262be4308182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 CS/Git/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "새 탭"
             }
           }
         ]
@@ -169,15 +165,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d640b28f7954f26d",
+  "active": "c4ec262be4308182",
   "lastOpenFiles": [
+    "📁 Projects/hanzawa-kanji/README.md",
+    "📁 Projects/hanzawa-kanji/READ.md",
+    "📁 Projects/mindapresso/README.md",
+    "📁 CS/Git/README.md",
+    "📁 Projects/mindapresso",
     "📁 CS/Git/mini-git-summary.md",
     "📁 CS/README.md",
     "📁 CS/Programming-Lang/README.md",
     "README.md",
     "📁 CS/study-plan.md",
     "📁 CS/Git/study-plan.md",
-    "📁 CS/Git/README.md",
     "().md",
     "📁 CS/Git/git-object-tests.md",
     "📁.md",
@@ -191,7 +191,6 @@
     "Projects",
     "📁 CS/Git/git-perf-analysis.md",
     "📁 CS/Git/git-internals.md",
-    "📁 Projects/hanzawa-kanji/README.md",
     "📁 CS/DB/README.md",
     "📁 CS/DB",
     "📁 CS/Programming-Lang",
@@ -203,10 +202,7 @@
     "📁 Algo/2025-05-02",
     "📁 Algo/2025-04-28/계획.md",
     "📁 Algo/2025-04-21/계획.md",
-    "📁 Algo/2025-03-31/✨✨ 4월의 전반적인 계획.md",
-    "📁 Algo/2025-04-21/회고.md",
     "📁 Algo/2025-04-28",
-    "📁 Algo/2025-04-21",
     "📁 Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/virtual_optimization.png",
