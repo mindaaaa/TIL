@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 CS/Git/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4ec262be4308182",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
+    "무제",
+    "📁 CS/Git/README.md",
     "📁 CS/Git/mini-git-summary.md",
     "📁 CS/Git/git-perf-analysis.md",
     "📁 CS/Git/git-object-tests.md",
@@ -178,7 +180,6 @@
     "📁 Projects/hanzawa-kanji/README.md",
     "📁 Projects/hanzawa-kanji/READ.md",
     "📁 Projects/mindapresso/README.md",
-    "📁 CS/Git/README.md",
     "📁 Projects/mindapresso",
     "📁 CS/README.md",
     "📁 CS/Programming-Lang/README.md",
@@ -205,7 +206,6 @@
     "📁 Algo/2025-04-28/회고.md",
     "📁 Algo/2025-05-02",
     "📁 Algo/2025-04-28/계획.md",
-    "📁 Algo/2025-04-21/계획.md",
     "📁 Algo/2025-04-28",
     "📁 Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "📁 Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
