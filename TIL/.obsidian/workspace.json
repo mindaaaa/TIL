@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
+                "file": "📁 Projects/mindapresso/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회고"
+              "title": "README"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "c4ec262be4308182",
   "lastOpenFiles": [
-    "README.md",
-    "무제",
     "📁 CS/Git/README.md",
     "📁 CS/Git/mini-git-summary.md",
     "📁 CS/Git/git-perf-analysis.md",
     "📁 CS/Git/git-object-tests.md",
     "📁 CS/Git/git-internals.md",
+    "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
+    "README.md",
+    "무제",
     "📁 Projects/hanzawa-kanji/README.md",
     "📁 Projects/hanzawa-kanji/READ.md",
     "📁 Projects/mindapresso/README.md",
