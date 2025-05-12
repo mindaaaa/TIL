@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Projects/mindapresso/README.md",
+                "file": "📁 CS/Git/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,9 @@
   },
   "active": "c4ec262be4308182",
   "lastOpenFiles": [
-    "📁 CS/Git/README.md",
     "📁 CS/Git/mini-git-summary.md",
+    "📁 Projects/mindapresso/README.md",
+    "📁 CS/Git/README.md",
     "📁 CS/Git/git-perf-analysis.md",
     "📁 CS/Git/git-object-tests.md",
     "📁 CS/Git/git-internals.md",
@@ -181,7 +182,6 @@
     "무제",
     "📁 Projects/hanzawa-kanji/README.md",
     "📁 Projects/hanzawa-kanji/READ.md",
-    "📁 Projects/mindapresso/README.md",
     "📁 Projects/mindapresso",
     "📁 CS/README.md",
     "📁 CS/Programming-Lang/README.md",
