@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 Algo/2025-05-13/til.md",
+                "file": "📁 CS/Git/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "til"
+              "title": "README"
             }
           }
         ],
@@ -184,17 +184,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3666e75445ac466",
+  "active": "e2c43a5eda3d3051",
   "lastOpenFiles": [
-    "📁 CS/study-plan.md",
+    "📁 CS/Git/mini-git-summary.md",
+    "📁 CS/Git/git-perf-analysis.md",
+    "📁 CS/Git/git-object-tests.md",
+    "📁 CS/DB/README.md",
     "📁 Algo/2025-05-13/til.md",
+    "📁 CS/study-plan.md",
     "📁 Algo/2025-05-13",
     "📁 CS/README.md",
     "📁 CS/Git/README.md",
-    "📁 CS/Git/mini-git-summary.md",
     "📁 Projects/mindapresso/README.md",
-    "📁 CS/Git/git-perf-analysis.md",
-    "📁 CS/Git/git-object-tests.md",
     "📁 CS/Git/git-internals.md",
     "📁 Projects/hanzawa-kanji/2025-04-08/회고.md",
     "README.md",
@@ -213,7 +214,6 @@
     "CS",
     "Projects/mini-lang.md",
     "Projects",
-    "📁 CS/DB/README.md",
     "📁 CS/DB",
     "📁 CS/Programming-Lang",
     "📁 CS/Git",
