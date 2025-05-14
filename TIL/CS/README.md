@@ -98,10 +98,10 @@ _Last updated: 2025-05-08_
 
 ## 📘 관련 문서
 
-- [🐙 mini-git-summary.md](./Git/mini-git-summary.md)
-- [📦 git-internals.md](./Git/git-internals.md)
-- [🧪 git-object-tests.md](./Git/git-object-tests.md)
-- [전체 학습 전략 자세히 보기](📁%20CS/study-plan.md)
+- [🐙 mini-git-summary.md](mini-git-summary.md)
+- [📦 git-internals.md](git-internals.md)
+- [🧪 git-object-tests.md](git-object-tests.md)
+- [전체 학습 전략 자세히 보기](study-plan.md)
 
 ## 마지막으로
 
