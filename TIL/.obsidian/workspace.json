@@ -11,10 +11,14 @@
             "id": "8b5bb4cbdfca911c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algo/2025-04-05/회고.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "회고"
             }
           }
         ]
@@ -165,10 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3666e75445ac466",
+  "active": "8b5bb4cbdfca911c",
   "lastOpenFiles": [
-    "Algo/2025-05-15/til.md",
+    "Algo/2025-04-04/회고.md",
+    "Algo/2025-04-01/회고.md",
+    "Algo/2025-03-31/회고.md",
+    "Algo/2025-03-31/계획.md",
     "Algo/2025-05-16/til.md",
+    "Algo/2025-05-15/til.md",
     "Test/Jest/2025-05-16/til.md",
     "Test/Jest/2025-05-15/til.md",
     "Test/Jest/2025-05-14/til.md",
@@ -199,10 +207,6 @@
     "Projects/mindapresso",
     "CS/Programming-Lang/README.md",
     "📁 CS/Git/study-plan.md",
-    "().md",
-    "📁.md",
-    "CS/🐙.md",
-    "CS/🐙Git/mini-git-summary.md",
     "Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
     "Projects/hanzawa-kanji/2025-04-08/virtual_optimization.png",
