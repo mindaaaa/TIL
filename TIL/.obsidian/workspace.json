@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/2025-04-05/회고.md",
+                "file": "CS/Git/mini-git-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회고"
+              "title": "mini-git-summary"
             }
           }
         ]
@@ -169,8 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5bb4cbdfca911c",
+  "active": "a3666e75445ac466",
   "lastOpenFiles": [
+    "CS/images/tree_01.png",
+    "CS/images/pointer_01.png",
+    "CS/images/index_01.png",
+    "CS/images/head_01.png",
+    "CS/images/hash_01.png",
+    "CS/images/commit_01.png",
+    "CS/images/blob_01.png",
+    "CS/images",
+    "CS/Git/git-internals.md",
+    "CS/Git/git-object-tests.md",
+    "CS/Git/git-perf-analysis.md",
+    "CS/Git/mini-git-summary.md",
+    "Algo/2025-04-05/회고.md",
     "Algo/2025-04-04/회고.md",
     "Algo/2025-04-01/회고.md",
     "Algo/2025-03-31/회고.md",
@@ -192,25 +205,17 @@
     "Projects/mindapresso/2025-05-13",
     "Projects/mindapresso/README.md",
     "CS/Git/README.md",
-    "CS/Git/mini-git-summary.md",
-    "CS/Git/git-perf-analysis.md",
-    "CS/Git/git-object-tests.md",
     "CS/DB/README.md",
     "CS/study-plan.md",
     "Algo/2025-05-13",
     "CS/README.md",
-    "CS/Git/git-internals.md",
     "Projects/hanzawa-kanji/2025-04-08/회고.md",
     "README.md",
     "Projects/hanzawa-kanji/README.md",
     "📁 Projects/hanzawa-kanji/READ.md",
-    "Projects/mindapresso",
-    "CS/Programming-Lang/README.md",
-    "📁 CS/Git/study-plan.md",
     "Projects/hanzawa-kanji/2025-04-08/intersection-observer.png",
     "Projects/hanzawa-kanji/2025-04-08/virtual-scroll.png",
     "Projects/hanzawa-kanji/2025-04-08/virtual_optimization.png",
-    "Algo/2025-04-05/getCombinations.jpeg",
-    "Algo/2025-04-05/getPermutations.jpeg"
+    "Algo/2025-04-05/getCombinations.jpeg"
   ]
 }
