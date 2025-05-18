@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Jest/2025-05-14/til.md",
+                "file": "Projects/mindapresso/2025-05-17/til.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,8 +200,10 @@
   },
   "active": "d02a90ff92e8b0ec",
   "lastOpenFiles": [
-    "CS/Git/README.md",
+    "Projects/mindapresso/README.md",
     "CS/Git/mini-git-summary.md",
+    "Test/Jest/2025-05-14/til.md",
+    "CS/Git/README.md",
     "CS/Git/git-perf-analysis.md",
     "CS/Git/git-internals.md",
     "CS/Git/git-object-tests.md",
@@ -209,7 +211,6 @@
     "Test/Jest/2025-05-16/til.md",
     "Test/Jest/2025-05-18",
     "Test/Jest/2025-05-15/til.md",
-    "Test/Jest/2025-05-14/til.md",
     "Projects/mindapresso/2025-05-13/til.md",
     "Projects/mindapresso/2025-05-17/til.md",
     "Projects/mindapresso/2025-05-17",
@@ -236,7 +237,6 @@
     "Test/Jest",
     "Test",
     "Algo/2025-05-13/til.md",
-    "Projects/mindapresso/README.md",
     "CS/DB/README.md",
     "CS/study-plan.md",
     "CS/README.md",
