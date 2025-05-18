@@ -1,7 +1,6 @@
 ## 📌 참고 레퍼런스
 
-> [테스트 with Jest: 제로초에게 제대로 배우기](https://www.inflearn.com/course/%ED%85%8C%EC%8A%A4%ED%8A%B8-with-jest-%EC%A0%9C%EB%A1%9C%EC%B4%88)
-> [Jest](https://jestjs.io/docs/expect)
+> [테스트 with Jest: 제로초에게 제대로 배우기](https://www.inflearn.com/course/%ED%85%8C%EC%8A%A4%ED%8A%B8-with-jest-%EC%A0%9C%EB%A1%9C%EC%B4%88)<br> [Jest](https://jestjs.io/docs/expect)
 
 # Promise 기반 코드 테스트
 
@@ -199,8 +198,7 @@ test('custom mock fn', () => {
 
 ## 📌 요약
 
-> Jest에서 mock 함수를 다룰 때는 <br>
-> `jest.fn()`과 `jest.spyOn()`의 차이를 명확히 이해하는 것이 아주 중요
+> Jest에서 mock 함수를 다룰 때는 <br> > `jest.fn()`과 `jest.spyOn()`의 차이를 명확히 이해하는 것이 아주 중요
 
 - `jest.fn()`은 새로운 mock 함수를 생성<br>→ 주로 콜백이나 의존성 주입 함수에 사용
 - `jest.spyOn()`은 기존 객체의 메서드에 스파이를 심음<br>→ 호출 여부를 감시하거나 동작을 교체할 때 사용
