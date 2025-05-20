@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Jest/2025-05-16/til.md",
+                "file": "CS/Git/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "til"
+              "title": "README"
             }
           }
         ],
@@ -186,12 +186,12 @@
   },
   "active": "007c12eb7d745455",
   "lastOpenFiles": [
-    "Test/Jest/2025-05-15/til.md",
-    "Test/Jest/2025-05-14/til.md",
     "CS/Git/mini-git-summary.md",
+    "Test/Jest/2025-05-15/til.md",
+    "Test/Jest/2025-05-16/til.md",
+    "Test/Jest/2025-05-14/til.md",
     "images/tree_01.png.md",
     "images",
-    "Test/Jest/2025-05-16/til.md",
     "CS/images/tree_01.png",
     "CS/images/commit_01.png",
     "CS/Git/README.md",
