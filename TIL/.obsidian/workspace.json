@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/mindapresso/2025-05-17/til.md",
+                "file": "CS/Git/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "til"
+              "title": "README"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "007c12eb7d745455",
   "lastOpenFiles": [
+    "Projects/mindapresso/2025-05-17/til.md",
     "Projects/mindapresso/2025-05-13/til.md",
     "Projects/mindapresso/README.md",
-    "Projects/mindapresso/2025-05-17/til.md",
     "CS/Git/README.md",
     "CS/Git/mini-git-summary.md",
     "Test/Jest/2025-05-15/til.md",
